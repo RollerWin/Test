@@ -12,3 +12,22 @@ D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\r
 D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\Тестовое задание.pdb
 D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\Тестовое задание.genruntimeconfig.cache
 D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\ref\Тестовое задание.dll
+D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\Тестовое задание.sourcelink.json
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Проекты\LeetCode C#\Тестовое задание\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\Тестовое задание.csproj.AssemblyReference.cache
+D:\Проекты\LeetCode C#\Тестовое задание\obj\Debug\net8.0\________.54B6D6BF.Up2Date

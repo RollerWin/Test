@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "adtloIKM4KM=",
+  "dgSpecHash": "STOAlQl+Uq8=",
   "success": true,
   "projectFilePath": "D:\\Проекты\\LeetCode C#\\Тестовое задание\\Тестовое задание.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maryy\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\maryy\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512"
+  ],
   "logs": []
 }
